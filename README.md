@@ -6,8 +6,9 @@ mathematical operations, and consists of: Parentheses “()”, Brackets “[]�
 If the group symbols in the input string are ‘well balanced’, then return true, else return
 false.
 For example, the program should produce:
-true for expression = “[()]{}{()()}”
-false for expression = “[(])”
+> true for expression = “[()]{}{()()}”
+>
+> false for expression = “[(])”
 
 # 2. Snail rearrangement:
 Given an n x n array, return the array elements rearranged from outermost elements to
